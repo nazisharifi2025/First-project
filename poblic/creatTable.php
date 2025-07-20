@@ -1,7 +1,7 @@
 <?php
-include "conniction.php";
+include "connection.php";
 USE store ;
 $commind = "CRETE TABLE product(id PRIMARY KEY , name VARCHAR(50), PRICE INT NOT NULL)";
 
-$conniction-> query ($commind);
+$connection-> query ($commind);
 ?>
