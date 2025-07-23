@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../src/output.css">
 </head>
 <body>
-    <div class="">
+    <div class="h-screen w-full flex justify-center items-center">
         <form action="">
             <div>
                 <label for="">ID</label>
