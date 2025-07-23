@@ -15,7 +15,7 @@
             </div>
             <div>
                 <label for="">NAME</label>
-                <input type="text">
+                <input type="text" class="py-2 w-full border">
             </div>
             <div>
                 <label for="">PRODUCT</label>

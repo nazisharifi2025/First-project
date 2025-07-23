@@ -211,6 +211,9 @@
   .p-4 {
     padding: calc(var(--spacing) * 4);
   }
+  .py-2 {
+    padding-block: calc(var(--spacing) * 2);
+  }
   .underline {
     text-decoration-line: underline;
   }
