@@ -14,7 +14,7 @@
                 <input type="number">
             </div>
             <div class="flex flex-col border">
-                <label for="">NAME</label>
+                <label for=""  class="font-bold">NAME</label>
                 <input type="text" class="py-2 w-full border">
             </div>
             <div class="flex flex-col border">
