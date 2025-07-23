@@ -18,7 +18,7 @@
                 <input type="text" class="py-2 w-full border">
             </div>
             <div class="flex flex-col border">
-                <label for="">PRODUCT</label>
+                <label for=""  class="font-bold">PRODUCT</label>
                 <input type="text">
             </div>
         </form>
