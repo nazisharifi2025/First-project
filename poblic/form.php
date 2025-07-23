@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="h-screen w-full flex justify-center items-center">
-        <form action="">
+        <form action="" class="h-[90%] w-[50%]">
             <div>
                 <label for="">ID</label>
                 <input type="number">
