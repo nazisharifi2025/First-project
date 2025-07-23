@@ -1,5 +1,5 @@
 @import "tailwindcss";
 
-@source "./../**/*.php"
-@source "./../**/*.html"
-@source "./views/**/*.php"
+@source "./../**/*.php";
+@source "./../**/*.html";
+@source "./views/**/*.php"; 
