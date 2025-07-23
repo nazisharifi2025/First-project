@@ -23,7 +23,6 @@
     if($_SERVER["RECUEST_METHOD" === "POST"]){
         $name = $_POST["class"];
         $instractor = $_POST["teacher"];
-        $sql = "INSERT INTO stor("
     }
     ?>
 </body>
