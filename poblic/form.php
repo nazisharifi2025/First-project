@@ -19,7 +19,7 @@
             </div>
             <div>
                 <label for=""  class="font-bold">PRODUCT</label>
-                <input type="text" class="py-2 w-full border rounded-2xl outline-0">
+                <input type="text" name="product" class="py-2 w-full border rounded-2xl outline-0">
             </div>
             <button class="py-2 px-3 bg-blue-400 rounded-xl font-bold">SEND</button>
         </form>
