@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../src/output.css">
 </head>
 <body>
-    <div class="h-screen w-full flex justify-center items-center overflow-y-scroll">
+    <div class="h-screen w-full bg-amber-500 flex justify-center items-center overflow-y-scroll">
         <form action="" class="h-[40%] w-[30%] p-4 shadow-xl shadow-black border flex flex-col ">
             <div class="flex flex-col border">
                 <label for="" class="font-bold">ID</label>
