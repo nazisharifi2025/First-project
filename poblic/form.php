@@ -11,7 +11,7 @@
         <form action=<?php $_SERVER["PHP_SELF"] ?> class="h-[70%] w-[50%] p-4 shadow-xl rounded-2xl  shadow-black border gap-4 items-center flex flex-col ">
             <div >
                 <label for="" class="font-bold">ID</label>
-                <input type="number" class="py-2 w-full border rounded-2xl outline-0">
+                <input type="number" name="id" class="py-2 w-full border rounded-2xl outline-0">
             </div>
             <div >
                 <label for=""  class="font-bold">NAME</label>
