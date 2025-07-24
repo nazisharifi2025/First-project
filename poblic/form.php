@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../src/output.css">
 </head>
 <body>
-    <div class="h-screen w-full  flex justify-center flex-col items-center overflow-y-scroll">
+    <div class="h-screen w-full gap-6  flex justify-center flex-col items-center overflow-y-scroll">
         <h1 class="font-bold text-2xl text-center bg-gray-400 p-5 rounded-2xl text-white">LOGIN PAGE</h1>
         <form action=<?php $_SERVER["PHP_SELF"] ?> class="h-[70%] w-[60%] p-4 shadow-xl rounded-2xl  shadow-black border gap-4 items-center flex flex-col ">
             <div >
