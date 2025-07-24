@@ -15,7 +15,7 @@
             </div>
             <div >
                 <label for=""  class="font-bold">NAME</label>
-                <input type="text" class="py-2 w-full border rounded-2xl outline-0">
+                <input type="text" name="name" class="py-2 w-full border rounded-2xl outline-0">
             </div>
             <div>
                 <label for=""  class="font-bold">PRODUCT</label>
