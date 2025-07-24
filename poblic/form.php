@@ -7,20 +7,21 @@
     <link rel="stylesheet" href="../src/output.css">
 </head>
 <body>
-    <div class="h-screen w-full bg-amber-500 flex justify-center items-center overflow-y-scroll">
-        <form action="" class="h-[40%] w-[30%] p-4 shadow-xl shadow-black border flex flex-col ">
-            <div class="flex flex-col border">
+    <div class="h-screen w-full  flex justify-center items-center overflow-y-scroll">
+        <form action="" class="h-[70%] w-[50%] p-4 shadow-xl shadow-black border flex flex-col ">
+            <div >
                 <label for="" class="font-bold">ID</label>
-                <input type="number">
+                <input type="number" class="py-2 w-full border rounded-2xl outline-0">
             </div>
-            <div class="flex flex-col border">
+            <div >
                 <label for=""  class="font-bold">NAME</label>
-                <input type="text" class="py-2 w-full border">
+                <input type="text" class="py-2 w-full border rounded-2xl outline-0">
             </div>
-            <div class="flex flex-col border">
+            <div>
                 <label for=""  class="font-bold">PRODUCT</label>
-                <input type="text">
+                <input type="text" class="py-2 w-full border rounded-2xl outline-0">
             </div>
+            <button class="py-2 px-3 bg-blue-400  font-bold">SEND</button>
         </form>
     </div>
 </body>
