@@ -8,19 +8,19 @@
 </head>
 <body>
     <div class="h-screen w-full gap-6  flex justify-center flex-col items-center overflow-y-scroll">
-        <h1 class="font-bold text-2xl text-center bg-gray-400 p-5 rounded-2xl text-white">LOGIN PAGE</h1>
-        <form action=<?php $_SERVER["PHP_SELF"] ?> class="h-[70%] w-[60%] p-4 shadow-xl rounded-2xl  shadow-black border gap-4 items-center flex flex-col ">
+        <h1 class="">Add New Car</h1>
+        <form class="h-[60%] w-[40%] p-4 shadow-xl rounded-2xl  shadow-black border gap-4    justify-between flex flex-col " action=<?php $_SERVER["PHP_SELF"] ?> >
             <div >
                 <label for="" class="font-bold">ID</label>
-                <input type="number" name="id" class="py-2 w-full border rounded-2xl outline-0">
+                <input type="number" name="id" class="py-2 w-full border rounded-xl outline-0">
             </div>
             <div >
                 <label for=""  class="font-bold">NAME</label>
-                <input type="text" name="name" class="py-2 w-full border rounded-2xl outline-0">
+                <input type="text" name="name" class="py-2 w-full border rounded-xl outline-0">
             </div>
             <div>
                 <label for=""  class="font-bold">PRODUCT</label>
-                <input type="text" name="product" class="py-2 w-full border rounded-2xl outline-0">
+                <input type="text" name="product" class="py-2 w-full border rounded-xl outline-0">
             </div>
             <button class="py-2 px-3 bg-blue-400 rounded-xl font-bold">SEND</button>
         </form>
