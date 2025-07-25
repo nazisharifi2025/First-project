@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="../src/output.css">
 </head>
 <body>
-    <div class="h-screen w-full flex justify-between">
+    <div class="h-screen w-full flex justify-between flex-wrap">
 
     </div>
 </body>
