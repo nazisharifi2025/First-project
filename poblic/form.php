@@ -31,7 +31,7 @@
                 <label for=""  class="font-bold">PRICE:</label>
                 <input type="text" name="product" class="py-2 w-full border rounded-xl outline-0">
             </div>
-            <button class="py-2 px-3 bg-blue-400 rounded-xl font-bold">SEND</button>
+            <button class="py-2 px-3 bg-blue-400 rounded-xl font-bold">SUBMIT</button>
         </form>
     </div>
 </body>
