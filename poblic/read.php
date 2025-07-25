@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="../src/output.css">
 </head>
 <body>
-    
+    <div class="h-screen w-full">
+
+    </div>
 </body>
 </html>
