@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="h-screen w-full flex justify-between flex-wrap overflow-y-scroll">
-        <div class="h-[400px] w-[250px]"></div>
+        <div class="h-[400px] w-[250px] rounded-2xl shadow-md shadow-gray-700"></div>
     </div>
 </body>
 </html>
