@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="h-screen w-full gap-6  flex justify-center flex-col items-center overflow-y-scroll">
-        <h1 class="font-bold text-3xl t">Add New Car</h1>
+        <h1 class="font-bold text-4xl text-center uppercase">Add New Car</h1>
         <form class="h-[60%] w-[40%] p-4 shadow-xl rounded-2xl  shadow-black border gap-4    justify-between flex flex-col " action=<?php $_SERVER["PHP_SELF"] ?> >
             <div >
                 <label for="" class="font-bold">ID</label>
